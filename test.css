@@ -1,0 +1,52 @@
+#snap{
+    font-weight: 800;
+    font-size: x-large;
+}
+#n1{
+    color: black;
+}
+#n2{
+    color: black;
+    padding-left: 650px;
+}
+#n3{
+    color: black;
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 5px;
+}
+#c1{
+
+   padding-left:20px;
+    padding-top: 80px;
+    width: fit-content;
+}
+#p1{
+    font-size:1.5cm;
+    font-weight:900;
+    text-align: left;
+    
+}
+#p2{
+    text-align: left;
+}
+
+
+#i1{
+
+    padding-right: 1200px;
+}
+#i2{
+    padding-right: 800px;
+}
+#c2{
+    padding-top: 80px;
+    padding-right: 30px;
+}
+#c3{
+    border: 1px solid black;
+    width:fit-content;
+}
+#btn{
+   margin-right: 500px;
+}
